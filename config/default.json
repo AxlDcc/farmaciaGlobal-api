@@ -1,0 +1,6 @@
+{
+  "jwtPrivateKey": "unsecureKey",
+  "db": "mysql://root:13021998@localhost/projectudeo",
+  "port": "3900",
+  "requiresAuth": true
+}
